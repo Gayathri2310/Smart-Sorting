@@ -33,6 +33,7 @@ Install dependencies:
 Run Flask App: ->python app.py
 
 ✅ Advantages of Sorting Fruits and Vegetables
+
 1.Improved Quality Control
 
 2.Ensures uniform size, ripeness, and appearance.
@@ -54,6 +55,7 @@ Run Flask App: ->python app.py
 10.Reduction of Post-Harvest Losses
 
 ❌ Disadvantages of Sorting Fruits and Vegetables
+
 1.High Initial Cost (for mechanized sorting)
 
 2.Advanced sorting machines require significant investment and maintenance.

@@ -34,26 +34,44 @@ Run Flask App: ->python app.py
 
 ✅ Advantages of Sorting Fruits and Vegetables
 1.Improved Quality Control
+
 2.Ensures uniform size, ripeness, and appearance.
+
 3.Removes damaged, overripe, or diseased items, improving overall product quality.
+
 4.Increased Market Value
+
 5.High-grade produce fetches better prices in domestic and export markets.
+
 6.Customer Satisfaction
+
 7.Consumers prefer consistent and appealing produce, enhancing brand trust and loyalty.
+
 8.Efficiency in Packaging and Transport
+
 9.Standardized sizes and shapes make packaging more efficient, reducing space and transportation costs.
+
 10.Reduction of Post-Harvest Losses
 
 ❌ Disadvantages of Sorting Fruits and Vegetables
 1.High Initial Cost (for mechanized sorting)
+
 2.Advanced sorting machines require significant investment and maintenance.
+
 3.Labor Intensive (if manual)
+
 4.Manual sorting is time-consuming and requires trained workers to maintain accuracy.
+
 5.Potential for Damage
+
 6.Mishandling during sorting (especially mechanical) can bruise or damage delicate produce.
+
 7.Waste Generation
+
 8.Produce that doesn't meet cosmetic standards is often discarded, leading to food waste despite being edible.
+
 9.Subjectivity in Manual Sorting
+
 10.Human sorting can be inconsistent due to fatigue, varying judgment, or lack of standardization.
 
 

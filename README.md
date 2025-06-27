@@ -1,6 +1,8 @@
 My project is about Smart Sorting to transfer learning for identifying rotten fruits and vegetables
 
-Project Description:
+Project Description: 
+
+Smart Sorting: Transfer Learning for Identifying Rotten Fruits and Vegetables Smart Sorting is an innovative project focused on enhancing the precision and efficiency of detecting rotten fruits and vegetables using cutting-edge transfer learning techniques. By leveraging pre-trained deep learning models and adapting them to specific datasets of fruits and vegetables, this project aims to revolutionize the process of sorting and quality control in the agricultural and food industry
 
 ->Smart Sorting is a deep learning-based web application that uses Transfer Learning to identify whether fruits and vegetables are Healthy or Rotten. This solution improves sorting accuracy and reduces food waste in agriculture, supermarkets, and households.
 
@@ -21,3 +23,4 @@ Installation: Based on the project I have installed the Anaconda Navigator to ru
 Install dependencies: -> pip install -r requirements.txt
 
 Run Flask App: ->python app.py
+Advantag
